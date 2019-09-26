@@ -11,8 +11,6 @@ body{
     margin-left: 0%;
     margin-top: -58px; 
     padding: 0;
-    /* margin-top: -55px;
-    margin-left: 2px; */
 }
 a{
     text-decoration: none;
@@ -52,7 +50,6 @@ a:hover .email{
 }
 nav ul li{
     color: white;
-    /* padding-right: 300px; */
     font-family: 'Trebuchet MS';
     float: right;
     margin-left: 50px;
